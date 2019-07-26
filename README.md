@@ -21,6 +21,5 @@ pkg install python3
 pkg install ruby -y2
 apt install nano
 git clone https://github.com/dizart-y/cLONiNg-Yahoo
-
-cd cLONiNG-Yahoo
+cd cLONiNg-Yahoo
 python2 CloningYahoo.py
